@@ -402,7 +402,7 @@ p:last-child {
 }
 
 .orange-text {
-  color: #F28123;
+  color: #81ae54;
 }
 
 .blue-bg {
@@ -857,7 +857,7 @@ a.mobile-show {
 }
 
 .logo-carousel-section {
-  background-color: #f5f5f5;
+  /* background-color: #f5f5f5; */
   padding: 50px 0;
 }
 
@@ -1245,7 +1245,7 @@ a.cart-btn {
 
 a.cart-btn:hover {
   background-color: #051922;
-  color: #F28123;
+  color: #81ae54;
 }
 
 .recent-posts ul li {
@@ -1575,12 +1575,12 @@ div.owl-controls, .owl-controls div {
   display: block;
   font-size: 24px;
   margin-right: 15px;
-  color: #F28123;
+  color: #81ae54;
   width: 65px;
   height: 65px;
   text-align: center;
   line-height: 60px;
-  border: 2px #F28123 dotted;
+  border: 2px #81ae54 dotted;
   border-radius: 999px;
 }
 
@@ -2439,7 +2439,7 @@ p.product-price span {
 a.cart-btn {
   font-family: 'Poppins', sans-serif;
   display: inline-block;
-  background-color: #F28123;
+  background-color: #81ae54;
   color: #fff;
   padding: 10px 20px;
 }
